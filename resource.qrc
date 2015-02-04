@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>koeikd.ico</file>
+        <file>video/befor.jpg</file>
+        <file>video/next.jpg</file>
+    </qresource>
+</RCC>
